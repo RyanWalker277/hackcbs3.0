@@ -1,4 +1,7 @@
 
+![Logo](https://raw.githubusercontent.com/arjit1704/hackcbs3.0/6559c0a7f55e47f53df18dee7e3925989b7efd35/Images/Logo.png)
+
+
 # Prashraya
 
 Women have to face numerous health issues. Addressing the gender, class or ethnic disparities that exist in healthcare can improve the healthcare field. 
@@ -32,8 +35,8 @@ There are several illnesses in which some specific workouts play a vital role in
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![App Screenshot](https://raw.githubusercontent.com/arjit1704/hackcbs3.0/6559c0a7f55e47f53df18dee7e3925989b7efd35/Images/Android.png)
+![App Screenshot](https://raw.githubusercontent.com/arjit1704/hackcbs3.0/6559c0a7f55e47f53df18dee7e3925989b7efd35/Images/Features.png)
 
 ## Authors
 
